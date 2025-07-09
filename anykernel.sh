@@ -4,8 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=AndroidGeeks
-idcomment=androidgeeks
+kernel.string=ブルーアーカイブ-Kernel-RC4
 do.devicecheck=1
 do.modules=0
 do.systemless=1

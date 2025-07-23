@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=ブルーアーカイブ-Kernel-RC6
+kernel.string=ブルーアーカイブ-KERNELSUNEXT-RC7
 do.devicecheck=1
 do.modules=0
 do.systemless=1

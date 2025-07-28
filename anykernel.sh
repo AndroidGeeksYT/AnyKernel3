@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=ブルーアーカイブ-RC9
+kernel.string=山本春木
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -13,7 +13,6 @@ do.cleanuponabort=0
 device.name1=violet
 device.name2=
 device.name3=
-device.name4=
 device.name5=
 supported.versions=14.0-16.0
 supported.patchlevels=

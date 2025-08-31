@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=山本春木
+kernel.string=GEEKY
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -14,7 +14,7 @@ device.name1=violet
 device.name2=
 device.name3=
 device.name5=
-supported.versions=14.0-16.0
+supported.versions=13.0-15.0
 supported.patchlevels=
 supported.vendorpatchlevels=
 '; } # end properties

@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=GEEKY v0.1
+kernel.string=GEEKY
 do.devicecheck=1
 do.modules=0
 do.systemless=1
